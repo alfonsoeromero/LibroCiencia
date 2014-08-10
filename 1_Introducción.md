@@ -1,4 +1,4 @@
-== Introducción ==
+# Introducción
 
 Tal vez seas uno de tantos que piensan que las redes Wi-Fi son terriblemente dañinas y provocan cáncer, que los Estados Unidos controlan el tiempo a través de una misteriosa base militar, o que terribles aviones nos fumigan periódicamente con productos químicos para cierta finalidad que no acabo de entender. Este libro no te va a convencer de lo contrario, sino que te proveerá de herramientas para que tú juzgues si este tipo de hechos son, tan siquiera, considerables por una persona que viva en el siglo XXI.
 
